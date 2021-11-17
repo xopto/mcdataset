@@ -472,7 +472,7 @@ The simulations are run with 1000 million photon packets.
 *Illustration of the Cartesian detector that is used to collect the reflectance and transmittance.*
 
 ![Deposition](/docs/source/static/deposition-projection.gif)<br>
-*Deposition mean along the y axis for the above configuration of a 2-layer skin with an embedded blood vessel*
+*Energy deposition mean along the y axis for the above configuration of a 2-layer skin with an embedded blood vessel*
 
 ### Dataset files
 
