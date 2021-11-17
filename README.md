@@ -1,6 +1,6 @@
 # MC Dataset
 
-MCDataset is an extensive collection of datasets computed with
+MC Dataset is an extensive collection of datasets computed with
 [PyXOpto](https://github.com/xopto/pyxopto) Monte Carlo light propagation
 models. The readily available datasets are computed for a vast variety of
 sources, detectors and sample optical properties and include information of
@@ -550,11 +550,11 @@ The values of placeholders <> are as follows:
   with two decimal digits and `_` as a decimal separator, e.g `20_00`
   for *μ<sub>s</sub>'*=20.0&nbsp;cm<sup>-1</sup>.
 
-## Citing MC Datasets
+## Citing MC Dataset
 
-We, the authors of McDatasets, expect that the package is used in accordance
+We, the authors of MC Dataset, expect that the package is used in accordance
 with the [GPL3+](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
-license and that any work using the McDatasets package also cites the project
+license and that any work using the MC Dataset package also cites the project
 and at least one of the following references:
 
  - P. Naglič, F. Pernuš, B. Likar, and M. Bürmen, *Limitations of the commonly*
@@ -567,5 +567,5 @@ and at least one of the following references:
    *turbid media*, Biomed. Opt. Expres, **8** (3), 1895-1910 (2017),
    https://doi.org/10.1364/BOE.8.001895.
 
-For alternative licensing options of McDatasets please contact us at
+For alternative licensing options of MC Dataset please contact us at
 info@xopto.eu.
