@@ -9,7 +9,8 @@ The datasets can be easily customized through the
 [dataset](https://xopto.github.io/pyxopto/docs/html/source/dataset/index.html)
 module of the [PyXOpto](https://github.com/xopto/pyxopto) project.
 
-*Summary of datasets available as release files*
+## Links to the data files of the latest release
+
 | Dataset                                                       | Release file                                                                                                                                                                          | Description                                                                                  |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |  [MCML comparison datasets](#mcml-comparison-datasets)        |                                                                                                                                                                                       |                                                                                              |
