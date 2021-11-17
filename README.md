@@ -11,6 +11,11 @@ module of the [PyXOpto](https://github.com/xopto/pyxopto) project.
 
 ## Links to the data files of the latest release
 
+Datasets are split into multiple files to reduce the download size and to allow
+partial downloads. The following table has the links to the dataset files of
+the latest release. A more detailed description of the individual datasets is
+given in the following section.
+
 | Dataset                                                       | Release file                                                                                                                                                                          | Description                                                                                  |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |  [MCML comparison datasets](#mcml-comparison-datasets)        |                                                                                                                                                                                       |                                                                                              |
