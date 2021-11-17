@@ -468,10 +468,10 @@ The simulations are run with 1000 million photon packets.
 |              | *direction*       | (x, y, z) = (0, 1, 0)                       |                                    |
 | Epidermis    | *thickness*       | 100&nbsp;μm                                 |                                    |
 
-![Cartesian](/docs/source/static/mcdetector_cartesian.svg)
+![Cartesian](/docs/source/static/mcdetector_cartesian.svg)<br>
 *Illustration of the Cartesian detector that is used to collect the reflectance and transmittance.*
 
-![Deposition](/docs/source/static/deposition-projection.gif)
+![Deposition](/docs/source/static/deposition-projection.gif)<br>
 *Deposition mean along the y axis for the above configuration of a 2-layer skin with an embedded blood vessel*
 
 ### Dataset files
