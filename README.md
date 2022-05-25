@@ -42,9 +42,9 @@ given in the following section.
 
 The following sections provide information on the  four groups of datasets:
  * [MCML comparison datasets](#mcml-comparison-datasets)
- * [Layered media datasets (MCML)](#layered-media-datasets)
- * [Voxelized media datasets (MCVOX)](#voxelized-media-datasets)
- * [Sampling volume datasets (SV)](#sampling-volume-datasets)
+ * [Layered media datasets (MCML)](#layered-media-datasets-mcml)
+ * [Voxelized media datasets (MCVOX)](#voxelized-media-datasets-mcvox)
+ * [Sampling volume datasets (SV)](#sampling-volume-datasets-sv)
 
 At the end of each section there is a breakdown of the directory
 tree and naming conventions that are used to organize the dataset files. 
