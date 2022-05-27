@@ -509,7 +509,7 @@ radius is set to 25&nbsp;mm.
 |                | *ncore*          | 1.462                                       |                              |
 |                | *NA*             | 0.22                                        |                              |
 |                | *spacing*        | 500&nbsp;μm                                 |                              |
-|                | *diameter*       | 6.0&mm                                      |                              |
+|                | *diameter*       | 6.0&nbsp;mm                                      |                              |
 |                | *reflectivity*   | 0.6                                         |                              |
 | Trace          | *maxlen*         | 1000                                        | packet trace configuration   |
 | SamplingVolume | *xaxis*          | Axis(start=-0.00075, stop=0.00075, n=300)   |                              |
